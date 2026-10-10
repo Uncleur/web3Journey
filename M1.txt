@@ -1,0 +1,24 @@
+﻿M1 Project
+
+
+-Uang fiat vs digital
+        Awal mula uang diciptakan untuk alat tukar dengan landasan berbasis perak dan emas. Namun pada abad 11 uang kertas pertama ciptakan pertama kali di China. Uang kertas ini diterbitkan dengan nama Jiaozi oleh Dinasti Song dan uang kertas ini hanyalah surat bukti kepemilikan emas atau perak.  Lalu pada tahun 1971 Presiden AS kala itu Richard Nixon menghapus sistem Bretton Woods yang berarti surat atau uang kertas ini bukan lagi berbasis emas/perak melainkan kepercayaan publik pada pemerintah.
+
+
+        Tahun 1993-1989 seorang ilmuan komputer David Chaum memperkenalkan konsep uang digital dan mendirikan DigiCash di Amsterdam namun akhirnya bangkrut. Beberapa tahun kemudian yakni 1999 Paypal didirikan di AS menjadi tempat alat tukar uang dengan bantuan internet. Disisi lain Alibaba meluncurkan Alipay pada tahun 2003 untuk mempermudah transaksi e-commerce.
+
+
+        Uang adalah alat tukar yang seharusnya memiliki nilai dan dimiliki oleh seorang individu tanpa adanya pihak lain. Setelah krisis 2008 melanda seseorang atau sekelompok orang dengan nama Satoshi Nakamoto menerbitkan whitepaper tentang bitcoin. Satoshi tidak puas dengan uang fiat ini karena ia dapat diatur oleh segelintir orang berkuasa. Satoshi melanjutkan project ini dengan membuat jaringan Bitcoin dan mengembangkan teknologi blockchain yang terdesetralisasi. Hal ini membuktikan transaksi bisa dilakukan antar pengguna tanpa perantara bank (peer-to-peer)
+
+
+-Double Spending
+        Pada uang digital terdapat kecurangan terhadap sistem yang dimana uang yang sama bisa dibelanjakan dua kali bahkan lebih. Mengapa bisa terjadi karena data yang ada di komputer itu digital. Data digital ini mudah digandakan, disalin, dan dimanipulasi. Hal ini menyebabkan uang digital akan kehilangan nilainya. Oleh karena itu ada dua metode utama dalam mengatasi ini:
+1.Sentralisasi - menggunakan pihak ketiga sebagai otoritas dan memiliki database utama setiap transaksi. Sehingga setiap transaksi yang dilakukan bersifat valid.
+2.Terdesentralisasi - tanpa menggunakan pihak ketiga dan menggunakan sistem blockchain dan mekanisme konsensus. Catatan setiap transaksi tidak disimpan dalam satu server melainkan disalin dan disebarkan keribuan komputer(nodes) di dalam jaringan. Transaksi diverifikasi oleh jaringan melalui perhitungan matematika rumit sebelum dimasukan ke dalam blok data yang permanen.
+
+
+-Blockchain
+        Blockchain adalah teknologi buku kas digital yang mencatat transaksi secara permanen, terdistribusi, dan terdesentralisasi. Bayangkan sebuah kelompok arisan terdiri dari 10 orang. Mereka sepakat untuk memegang buku catatan berisi transaksi yang sama persis. Setiap ada transaksi baru semua anggota harus melihat, mencocokkan, menulis transaksi tersebut. Jika salah satu ada yang melanggar dia tidak akan sesuai dengan jaringan tersebut hingga akhirnya dikucilkan.
+
+
+        Tanpa 10 orang (Node) yang rajin mencatat, tidak akan ada halaman (blok) data. Data ini ditutup dengan segel (Hash-256) agar terhindar dari pemalsuan. Kemudian untuk membuat halaman baru harus mendapatkan kunci segel sebelumnya hingga akhirnya terhubung (rantai) antara halaman baru dan halaman lama. Setiap saat para pemilik buku mengadakan rapat untuk menyetujui setiap transaksi (konsensus).
